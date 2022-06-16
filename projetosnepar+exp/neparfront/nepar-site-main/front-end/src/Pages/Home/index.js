@@ -1,0 +1,8 @@
+export { Home } from "./Home"
+export { Welcome } from "./Welcome"
+export { About } from "./About"
+export { Card } from "./Card"
+export { AccordionItem } from "./AccordionItem"
+export { Project } from "./Project"
+export { Contact } from "./Contact"
+export { Partnes } from "./Partnes"
